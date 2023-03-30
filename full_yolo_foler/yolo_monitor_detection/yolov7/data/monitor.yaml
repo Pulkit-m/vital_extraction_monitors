@@ -1,0 +1,7 @@
+train: ../monitor_dataset/images/train
+val: ../monitor_dataset/images/val
+test: ../monitor_dataset/images/test
+
+# Classes
+nc: 1  # number of classes
+names: ['screen']  # class names
