@@ -1,0 +1,7 @@
+train: ../new_dataset/images/train
+val: ../new_dataset/images/val
+test: ../new_dataset/images/test
+
+# Classes
+nc: 5  # number of classes
+names: ['HR','RR','SPO2','BP','HR_W']  # class names
