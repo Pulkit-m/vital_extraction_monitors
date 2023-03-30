@@ -1,6 +1,21 @@
 # vital_extraction_from_monitors
 Extracting metrics like heart rate, spo2, respiration rate, etc from images of monitors
 
+### Sample Input
+
+![alt text](https://github.com/Aman-garg-IITian/vital_extraction_from_monitors/blob/main/sample_images/sample_input.jpeg?raw=true)
+
+### After Extracting Monitor Screen and Warping
+
+![alt text](https://github.com/Aman-garg-IITian/vital_extraction_from_monitors/blob/main/sample_images/extracted_warped_screen.jpeg?raw=true)
+
+### Detecting HR, SPO2, RR, BP, and HR Graph
+
+![alt text](https://github.com/Aman-garg-IITian/vital_extraction_from_monitors/blob/main/sample_images/vital_detection_sample.png?raw=true)
+
+### Digitized HR Graph
+
+![alt text](https://github.com/Aman-garg-IITian/vital_extraction_from_monitors/blob/main/sample_images/Hr_graph_digitized_sample.png?raw=true)
 
 # Instructions for running the project
 
